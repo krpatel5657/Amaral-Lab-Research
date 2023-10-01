@@ -1,0 +1,3 @@
+### How to Use Code
+
+All parts of the HDR processing pipeline have been split into several functions, some of which take in image paths and some of which take lists of images. Comments throughout the code explain the function purpose if it isn't clear through the name of the function. Commented out code at the bottom of the file was what I used to apply each of the pipeline functions on an exposure stack, with an explanation of what to uncomment to perform a certain task.
